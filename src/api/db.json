@@ -1,0 +1,38 @@
+{
+  "patient": [
+    {
+      "firstname": "Sandy",
+      "lastname": "Naik",
+      "username": "Snk",
+      "email": "Snk@mail.com",
+      "password": "asjdkjikjk",
+      "dateofbirth": "15/07/2022",
+      "gender": "Male",
+      "address": "Murudeshwara",
+      "city": "Murudeshwara",
+      "postalcode": "5151515",
+      "phone": "98484135845",
+      "file": "",
+      "bio": "Nakkan",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "firstname": "Pavan ",
+      "lastname": "Patil",
+      "username": "Ppatil",
+      "email": "pavanpatil@gmail.com",
+      "password": "Popomiionionion",
+      "dateofbirth": "2023-01-19",
+      "gender": "Male",
+      "address": "5th Cross ",
+      "city": "Banglore",
+      "postalcode": "580067",
+      "phone": "8585755885",
+      "file": "",
+      "bio": "I am Affected with dengue",
+      "status": "Active",
+      "id": 2
+    }
+  ]
+}
